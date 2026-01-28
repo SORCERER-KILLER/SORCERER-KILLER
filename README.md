@@ -15,7 +15,7 @@
   <img src="https://img.sanishtech.com/u/efa489ca1a21e87eacac381ccd8d26bc.png">
 </div>
 
-<br/><sub>[ATABOOK](https://collapse.atabook.org/)ㅤ[STRAWPAGE](https://oveertime.straw.page/)</sub>
+<br/><sub>[ATABOOK](https://collapse.atabook.org/)  [✦](https://github.com/RATIO-TECHNIQUE)          [STRAWPAGE](https://oveertime.straw.page/)</sub>
 
 <br/><div align="center">
   <img src="https://img.sanishtech.com/u/7018688060f963ffafcdc0c8aa6548b8.png">
