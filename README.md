@@ -9,7 +9,7 @@
 
 <div align="center">
   
-![](https://komarev.com/ghpvc/?username=SORCERER-KILLER&color=356E80&style=plastic&label=†&abbreviated=true)
+![](https://komarev.com/ghpvc/?username=SORCERER-KILLER&color=367380&style=flat&label=†&abbreviated=true)
 
 <br/><div align="center">
   <img src="https://img.sanishtech.com/u/efa489ca1a21e87eacac381ccd8d26bc.png">
